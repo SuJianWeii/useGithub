@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 
+//打印消息
 public class HelloController {
 
     @RequestMapping("info")
